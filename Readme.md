@@ -1,0 +1,1 @@
+"Nexus GX es un navegador web de escritorio real, ultrarr pido y seguro, dise¤ado especialmente para entusiastas del gaming y creadores de contenido.   Construido con Chromium, Electron, React, TypeScript y Framer Motion con aislamiento de contexto y renderizado acelerado por GPU"
